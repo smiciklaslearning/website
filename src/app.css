@@ -1,5 +1,23 @@
 body {
-    background-color: black;
+    background-color: #262626;
     color: white;
     text-align: center;
+    border-color: white
+}
+#navigation{
+    border-style: solid;
+    background-color: black;
+    padding: 10px
+}
+#link {
+    padding: 10%;
+    margin-top: 10px;
+}
+
+a:visited {
+    color: white
+}
+
+#video{
+    border-style: solid
 }
