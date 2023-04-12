@@ -1,15 +1,11 @@
 import './app.css'
-import './components/components.css'
-import { BrowserRouter } from 'react-router-dom'
-import Router from './global/router'
-import Navigation from './global/navigation'
+import Header from './components/header'
+import Body from './components/body'
 
 export default function App() {
   return (
     <div>
-      <Navigation/>
-      <BrowserRouter>
-        <Router/>
-      </BrowserRouter>
+      <Header/>
+      <Body/>
     </div>
   )}
