@@ -9,9 +9,3 @@ body {
     background-color: black;
     border-style: solid
 }
-
-#half {
-    display: inline-block;
-    width: 50%
-    
-}
