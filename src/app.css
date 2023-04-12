@@ -1,11 +1,27 @@
 body {
-    background-color: #262626;
+    background-color: black;
     color: white;
     text-align: center;
     border-color: white
 }
-
-#intro{
-    background-color: black;
-    border-style: solid
+#header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #262626;
+    border-style: solid;
+    padding: 20px;
 }
+#book {
+    padding: 10%
+}
+#footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #262626;
+    border-style: solid;
+    padding: 20px;
+  }
