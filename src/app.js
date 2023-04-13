@@ -1,10 +1,7 @@
 import './app.css'
-import Header from './components/header'
-import './components/header.css'
-import Body from './components/body'
-import './components/body.css'
-import Footer from './components/footer'
-import './components/footer.css'
+import Header from './components/global/header'
+import Body from './components/global/body'
+import Footer from './components/global/footer'
 
 export default function App() {
   return (
