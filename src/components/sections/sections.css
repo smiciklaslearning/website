@@ -4,6 +4,9 @@
 #section1, #section2, #section3, #section4 {
     border-style: solid;
     background-size: cover;
+    width: 50%;
+    margin: auto;
+    margin-top:1%
 }
 #section1 {
     background-image: url("../../../public/math.jpg");
