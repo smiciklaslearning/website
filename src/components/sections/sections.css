@@ -1,0 +1,19 @@
+#title {
+    font-size: 20px;
+}
+#section1, #section2, #section3, #section4 {
+    border-style: solid;
+    background-size: cover;
+}
+#section1 {
+    background-image: url("../../../public/math.jpg");
+}
+#section2 {
+    background-image: url("../../../public/coding.jpg");
+}
+#section3 {
+    background-image: url("../../../public/test.jpg");
+}
+#section4 {
+    background-image: url("../../../public/crypto.jpg");
+}

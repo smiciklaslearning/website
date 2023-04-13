@@ -1,10 +1,16 @@
+import Math from './sections/math.js'
+import Coding from './sections/coding.js'
+import Test from './sections/test.js'
+import Crypto from './sections/crypto.js'
+
 export default function Body () { return (
     <div id="body">
         <table>
             <tr>
-                <td id="section1"><h2>Math</h2><p>Elementary Level<br/><br/>Algebra<br/><br/>Advanced Math<br/><br/></p></td>
-                <td id="section2"><h2>Coding</h2><p>Scratch<br/><br/>Python<br/><br/>HTML/CSS/Javascript<br/><br/></p></td>
-                <td id="section3"><h2>Test Prep</h2><p>SAT<br/><br/>ACT<br/><br/>PSAT/NMSQT<br/><br/></p></td>
+                <td><Math/></td>
+                <td><Coding/></td>
+                <td><Test/></td>
+                <td><Crypto/></td>
             </tr>
         </table>
     </div>
