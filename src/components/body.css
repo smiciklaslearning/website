@@ -1,0 +1,22 @@
+#body {
+    margin-top:10%;
+    background-image: url("../../public/background.jpg");
+    height: 75%;
+    background-size: cover;
+    width: 100%;
+}
+#section1 {
+    padding:2%;
+    background-image: url("../../public/math.jpg");
+    border-style: solid;
+}
+#section2 {
+    padding:2%;
+    background-image: url("../../public/coding.jpg");
+    border-style: solid;
+}
+#section3 {
+    padding:2%;
+    background-image: url("../../public/test.jpg");
+    border-style: solid;
+}

@@ -1,0 +1,8 @@
+#footer {
+    position: fixed;
+    bottom: 0;
+    width: 98%;
+    background-color: #262626;
+    border-style: solid;
+    font-size: 25px
+}

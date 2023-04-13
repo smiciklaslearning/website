@@ -4,12 +4,9 @@ body {
     text-align: center;
     border-color: white
 }
-#header {
-    position: fixed;
-    top: 0;
-    width: 100%;
-    background-color: #262626;
-    border-style: solid;
+#sidebyside {
+    padding-left: 10%;
+    padding-right: 10%;
 }
 table {
     margin: auto;
@@ -17,19 +14,4 @@ table {
 }
 th, td {
     text-align: center;
-}
-#center {
-    padding-top: 15%;
-    padding-bottom: 5%
-}
-#footer {
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-    background-color: #262626;
-    border-style: solid;
-}
-#sidebyside {
-    padding-left: 5%;
-    padding-right: 5%
 }
