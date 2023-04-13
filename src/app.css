@@ -1,12 +1,9 @@
 body {
-    background-color: black;
+    background-image: url("/public/background.jpg");
+    background-size: cover;
     color: white;
     text-align: center;
     border-color: white
-}
-#sidebyside {
-    padding-left: 10%;
-    padding-right: 10%;
 }
 table {
     margin: auto;
