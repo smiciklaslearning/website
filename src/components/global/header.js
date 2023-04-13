@@ -4,7 +4,7 @@ export default function Header () { return (
         <div id="header">
             <table>
                 <tr>
-                    <th></th>
+                    <th>(201) 736 - 1268</th>
                     <th>Calendly</th>
                     <th>LinkedIn</th>
                     <th>YouTube</th>
@@ -20,12 +20,12 @@ export default function Header () { return (
                     <td><a href="https://github.com/andr00js"><img src="github.jpg" style={{ height: "80", width: "80" }} alt=""></img></a></td>
                 </tr>
                 <tr>
-                    <td></td>
+                    <td>email@smiciklaslearning.com</td>
                     <td>Schedule A Free Session</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    <td>Experience/Resume</td>
+                    <td>Videos</td>
+                    <td>Past Reviews</td>
+                    <td>Projects</td>
                 </tr>        
             </table>
         </div>
