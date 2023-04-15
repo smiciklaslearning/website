@@ -5,3 +5,19 @@ body {
     text-align: center;
     border-color: white
 }
+
+#halves {
+    display: inline-block;
+    width: 48%;
+    margin-top:15%;
+    vertical-align: top
+}
+
+#greeting {
+    background-color: #262626;
+    border-style: solid;
+    padding: 3%
+}
+#text {
+    font-size: 17px
+}

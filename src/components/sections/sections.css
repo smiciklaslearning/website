@@ -4,9 +4,12 @@
 #section1, #section2, #section3, #section4 {
     border-style: solid;
     background-size: cover;
-    width: 50%;
+    width: 75%;
     margin: auto;
-    margin-top:1%
+    margin-bottom:1%
+}
+#textbox {
+    background-color: rgba(0, 0, 0, 0.7);
 }
 #section1 {
     background-image: url("../../../public/math.jpg");
