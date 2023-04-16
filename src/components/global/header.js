@@ -4,7 +4,7 @@ export default function Header () { return (
         <div id="header">
             <table>
                 <tr>
-                    <th>(201) 736 - 1268</th>
+                    <th id="blink">(201) 736 - 1268</th>
                     <th>Calendly</th>
                     <th>LinkedIn</th>
                     <th>YouTube</th>
@@ -21,7 +21,7 @@ export default function Header () { return (
                 </tr>
                 <tr>
                     <td>email@smiciklaslearning.com</td>
-                    <td id="pulse">Schedule A Free Session</td>
+                    <td>Schedule A Free Session</td>
                     <td>Experience/Resume</td>
                     <td>Videos</td>
                     <td>Past Reviews</td>
