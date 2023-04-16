@@ -4,10 +4,15 @@ export default function Crypto () { return (
     <div id="section4">
         <div id="textbox">
             <br/><div id='title'>CRYPTO</div>
-            <br/>Metamask
-            <br/><br/>Etherscan
-            <br/><br/>Defi
-            <br/><br/>
+            <table>
+                <tr><br/></tr>
+                <tr><a id ="text" href="https://metamask.io/">Metamask</a></tr>
+                <tr><br/></tr>
+                <tr><a id ="text" href="https://ethereum.org/en/dapps/">Dapps</a></tr>
+                <tr><br/></tr>
+                <tr><a id ="text" href="https://ethereum.org/en/nft/">NFTs</a></tr>
+                <tr><br/></tr>
+            </table>
         </div>
     </div>
 )}

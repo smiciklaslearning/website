@@ -4,10 +4,15 @@ export default function Coding () { return (
     <div id="section2">
         <div id="textbox">
             <br/><div id="title">CODING</div>
-            <br/>Scratch
-            <br/><br/>Python
-            <br/><br/>HTML/CSS/Javascript
-            <br/><br/>
+            <table>
+                <tr><br/></tr>
+                <tr><a id ="text" href="https://scratch.mit.edu/">Scratch</a></tr>
+                <tr><br/></tr>
+                <tr><a id ="text" href="https://www.python.org/">Python</a></tr>
+                <tr><br/></tr>
+                <tr><a id ="text" href="https://www.w3schools.com/">HTML/CSS/Javascript</a></tr>
+                <tr><br/></tr>
+            </table>
         </div>
     </div>
 )}
