@@ -1,10 +1,6 @@
 export default function Greeting () { return (
     <div>
         <div id="greeting">
-            <div id="title">WELCOME TO SMICIKLAS LEARNING</div>
-            <p id="text">When one teaches, two learn. I love to teach because I get to learn while I work.</p>
-        </div>
-        <div id="greeting">
             <div id="title">GETTING STARTED</div> 
             <p id="text">FIRST 30 MINUTE ZOOM LESSON IS FREE!</p>
             <p id="text">Click the Calendly icon at the top of the page to schedule your free lesson. If you decide that I can help you learn, we can either schedule regular sessions or you can book as needed.</p>
