@@ -7,7 +7,7 @@ export default function App() {
   return (
     <div>
       <Header/>
-      <span id="halves"><Courses/></span>
       <span id="halves"><Greeting/></span>
+      <span id="halves"><Courses/></span>
     </div>
   )}
