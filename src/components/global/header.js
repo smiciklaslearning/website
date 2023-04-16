@@ -21,7 +21,7 @@ export default function Header () { return (
                 </tr>
                 <tr>
                     <td>email@smiciklaslearning.com</td>
-                    <td>Schedule A Free Session</td>
+                    <td>First Lesson Free</td>
                     <td>Experience/Resume</td>
                     <td>Videos</td>
                     <td>Past Reviews</td>
