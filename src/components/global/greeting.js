@@ -3,9 +3,9 @@ export default function Greeting () { return (
         <div id="greeting">
             <div id="title">GETTING STARTED</div> 
             <p id="text">FIRST 30 MINUTE ZOOM LESSON IS FREE!</p>
-            <p id="text">Click the Calendly icon at the top of the page to schedule your free lesson. If you decide that I can help you learn, we can either schedule regular sessions or you can book as needed.</p>
-            <p id="text">My standard rates are $30 for 30 minutes, and $50 for 1 hour. No contracts or commitments!</p>
-            <p id="text">Call or text (201) 736-1268 to get started. You can also send an email to email@smiciklaslearning.com</p>
+            <p id="text">Click the blue Calendly icon at the top of the page to schedule your free lesson.</p>
+            <p id="text">My standard rates are $30 for 30 minutes, and $50 for 1 hour. <br/> No contracts or commitments!</p>
+            <p id="text">Call or text (201) 736-1268 to get started. <br/>You can also send an email to email@smiciklaslearning.com</p>
         </div>
         <div id="greeting">
             <div id="title">COURSES</div> 
